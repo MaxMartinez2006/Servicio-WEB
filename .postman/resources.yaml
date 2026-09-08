@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: 615fb118-5d57-45aa-8a3d-2c0a85f6e4f9
+
+localResources:
+  specs:
+    - ../primeraApi/primeraApi/obj/Debug/net10.0/EndpointInfo/primeraApi.json

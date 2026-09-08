@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OBio/PdOZLQ=",
+  "success": true,
+  "projectFilePath": "D:\\Servicio Web\\PracticaPersonal\\PracticaPersonal\\PracticaPersonal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USERNAME\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\USERNAME\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
